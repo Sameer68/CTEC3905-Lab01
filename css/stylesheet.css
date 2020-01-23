@@ -1,4 +1,10 @@
 body {
   background-color: powderblue;
-  font-size: 12pt
+  font-size: 12pt;
+  color: black;
+}
+
+h1 {
+  font-size: 12pt;
+  color: black;
 }
